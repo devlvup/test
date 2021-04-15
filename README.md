@@ -1,2 +1,1 @@
-# maskface
-mask face
+# 술안주 궁합
